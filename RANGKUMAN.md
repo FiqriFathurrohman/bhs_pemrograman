@@ -1,13 +1,15 @@
+
 1. Definisi
+
+
 Array (di Python) adalah struktur yang dapat menyimpan dan mengorganisir kumpulan data. Struktur data berbicara tentang cara menyimpan, mengorganisir, mengelompokkan, dan merepresentasikan data. Struktur data sangat penting dan harus dikuasai oleh seorang programmer.
 Di forum pemrograman, saya sering menemui pertanyaan yang saya rasa dapat dipecahkan jika orang tersebut memahami konsep struktur data.
 
 2. Set
 Set dalam bahasa pemrograman Python adalah tipe data kolektif yang digunakan untuk menyimpan beberapa nilai dalam satu variabel dengan syarat-syarat berikut:
-
-Nilai anggota yang disimpan harus unik (tidak boleh duplikat).
-Nilai anggota yang telah dimasukkan tidak dapat diubah lagi.
-Set tidak terurut alias unordered - yang berarti tidak dapat diakses dengan indeks.
+1.Nilai anggota yang disimpan harus unik (tidak boleh duplikat).
+2.Nilai anggota yang telah dimasukkan tidak dapat diubah lagi.
+3.Set tidak terurut alias unordered - yang berarti tidak dapat diakses dengan indeks.
 ============================================================================================================================
 
 python
