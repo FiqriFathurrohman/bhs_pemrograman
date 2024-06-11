@@ -15,17 +15,14 @@ Set dalam bahasa pemrograman Python adalah tipe data kolektif yang digunakan unt
 python
 Copy code
 # menggunakan kurung kurawal
-
 student_set = {'Huda', 'Lendis', 'Wahid', 'Basith'}
 print(student_set)
 
 # konversi list menjadi set
-
 fruit_set = set(['mango', 'Apple'])
 print(fruit_set)
 
 # set dengan berbagai tipe data
-
 set_mix = {'man', 'animal', 5, True, ('A', 'B')}
 print(set_mix)
 
