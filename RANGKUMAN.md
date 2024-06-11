@@ -10,7 +10,7 @@ Set dalam bahasa pemrograman Python adalah tipe data kolektif yang digunakan unt
 1.Nilai anggota yang disimpan harus unik (tidak boleh duplikat).
 2.Nilai anggota yang telah dimasukkan tidak dapat diubah lagi.
 3.Set tidak terurut alias unordered - yang berarti tidak dapat diakses dengan indeks.
-============================================================================================================================
+
 
 python
 Copy code
@@ -28,18 +28,14 @@ print(fruit_set)
 
 set_mix = {'man', 'animal', 5, True, ('A', 'B')}
 print(set_mix)
-============================================================================================================================
 
 OUTPUT:
 
 python
 Copy code
 {'Wahid', 'Lendis', 'Basith', 'Huda'}
-
 {'Apple', 'mango'}
-
 {True, 5, ('A', 'B'), 'animal', 'man'}
-============================================================================================================================
 
 a. Tidak Terurut (Unordered)
 Tipe data set adalah tipe data yang tidak terurut. Artinya, kita tidak dapat menggunakan indeks untuk mengakses nilai dalam set. Jika kita mencoba melakukannya, kita akan mendapatkan pesan kesalahan:
