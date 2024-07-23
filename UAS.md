@@ -78,14 +78,21 @@ def ambil_data_pengguna(user_id):
         return data
     else:
         return f"Error: Tidak dapat mengambil data. Status Code: {response.status_code}"
-
-# Contoh penggunaan
 user_data = ambil_data_pengguna(1)
 print(user_data)
 -------------------------------------------------------------------------------------
 5)* SOPIR ADALAH seseorang yang memiliki tugas dan tanggung jawab untuk mengemudikan kendaraan seperti mobil, truk, atau bus. Tugas seorang driver (supir) meliputi: Mengemudikan kendaraan: Tugas utama seorang driver adalah mengemudikan kendaraan dengan aman dan bertanggung jawab.PROFESI YANG SANGAT BANYAK DI JUMPAI DI INDONESIA,SEPERTI DI PERUSAHAAN, DI RUMAH RUMAH, DI JALAN, DI SEKOLAH DLL. DAN SUPIR INI, DAN PENGHASILAN DARI SUPIR SAMHGAT BERFARIASI MULAI DARI 3,5 JUTA HINGGA 4,6 JUTA RUPIAH.
 
- DAN KALI INI SAYA AKAN MENGA,BIL TEMA SUPIR TAXI ONLINE KARENA BANYAK DI JUMPAI DI INDONESIA DAN SISITEM YANG MUDAH DAN CEPAT.
+ DAN KALI INI SAYA AKAN MENGA,BIL TEMA SUPIR TAXI ONLINE KARENA BANYAK DI JUMPAI DI INDONESIA DAN SISITEM YANG MUDAH DAN CEPAT. dan inilah analisa saya=
+ *yang menjadi sopir = individu dari umur 18 sampai 50 tahun
+ *konsumen = semua kalangan dari anak kecil sampai lansia
+ *cara memesan taxi online= lewat aplikasi dengan cara pemesanan yang simpel, karna para orang tua dan lansia biasanya masih kurang bisa memaki aplikasi yg cukup rumit.
+ *pendapatan= per 1km dikeankan biaya 15.000 rupiah, dengan pembagian 50% untuk driver dan 50% untuk perusahaan
+ *wilayah untuk menerima pesanan nya maksimal 3 km dari posisi driver, karna untuk memepersingkat waktu menunggu cusromer.
+ *BONUS= jika driver bisa mencapi 150km perhari akan mendapatkan bonus sebesar 20k
+ *seragam= untuk driver nya di wajibkan memakai seragam dari perusahaan agar terlihat profesional.
+ *Setiap bulan ada uang untuk ganti oli sebesar 120k untuk setiap driver
+ 
     
 
 
