@@ -67,7 +67,6 @@ import requests
 
 def ambil_data_pengguna(user_id):
     # URL endpoint API
-    url = f"https://jsonplaceholder.typicode.com/users/{user_id}"
 
     # Mengirim permintaan GET ke API
     response = requests.get(url)
@@ -83,6 +82,10 @@ def ambil_data_pengguna(user_id):
 # Contoh penggunaan
 user_data = ambil_data_pengguna(1)
 print(user_data)
+-------------------------------------------------------------------------------------
+5)* SOPIR ADALAH seseorang yang memiliki tugas dan tanggung jawab untuk mengemudikan kendaraan seperti mobil, truk, atau bus. Tugas seorang driver (supir) meliputi: Mengemudikan kendaraan: Tugas utama seorang driver adalah mengemudikan kendaraan dengan aman dan bertanggung jawab.PROFESI YANG SANGAT BANYAK DI JUMPAI DI INDONESIA,SEPERTI DI PERUSAHAAN, DI RUMAH RUMAH, DI JALAN, DI SEKOLAH DLL. DAN SUPIR INI, DAN PENGHASILAN DARI SUPIR SAMHGAT BERFARIASI MULAI DARI 3,5 JUTA HINGGA 4,6 JUTA RUPIAH.
 
+ DAN KALI INI SAYA AKAN MENGA,BIL TEMA SUPIR TAXI ONLINE KARENA BANYAK DI JUMPAI DI INDONESIA DAN SISITEM YANG MUDAH DAN CEPAT.
+    
 
 
