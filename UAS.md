@@ -1,5 +1,5 @@
 1)*Fungsi (Function)*
-Fungsi adalah blok kode yang dirancang untuk melakukan tugas tertentu. Fungsi memungkinkan kita untuk memisahkan kode menjadi bagian-bagian yang lebih kecil, lebih mudah dipahami, dan dapat digunakan kembali. Fungsi didefinisikan dengan menggunakan kata kunci def diikuti dengan nama fungsi dan parameter opsional yang dibungkus dalam tanda kurung.
+//Fungsi adalah blok kode yang dirancang untuk melakukan tugas tertentu. Fungsi memungkinkan kita untuk memisahkan kode menjadi bagian-bagian yang lebih kecil, lebih mudah dipahami, dan dapat digunakan kembali. Fungsi didefinisikan dengan menggunakan kata kunci def diikuti dengan nama fungsi dan parameter opsional yang dibungkus dalam tanda kurung.
 
 contoh
 def tambah(angka1, angka2):
